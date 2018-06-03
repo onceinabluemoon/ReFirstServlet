@@ -1,5 +1,5 @@
 /*
-formdan aldigi iki sayi ile temel mat. islemlerini gerceklestirir ve json object olarak response dondurur.
+web/index.jsp deki html formdan aldigi iki sayi ile temel mat. islemlerini gerceklestirir ve json object olarak response dondurur.
 get metodu kullanildigindan parametreler linkte de acik olarak gorulebilir
 */
 package org.servlet;
